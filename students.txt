@@ -1,0 +1,13 @@
+# Student Data
+# Format: Name,ID,Assignment1,Assignment2,Assignment3
+
+John Doe,1001,85,90,88
+Jane Smith,1002,78,82,85
+Emily Johnson,1003,92,95,89
+Michael Brown,1004,75,80,78
+Olivia Davis,1005,88,91,84
+William Wilson,1006,70,65,75
+Sophia Martinez,1007,89,94,92
+James Anderson,1008,80,77,85
+Isabella Taylor,1009,93,89,91
+Liam White,1010,85,87,80
